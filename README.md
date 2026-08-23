@@ -2,7 +2,7 @@
 <br>
 <p align="center">
   I'm an AI Agent Developer who builds complete, production-ready systems — not just models.<br>
-  I help clinics stop losing patients to unanswered DMs by building AI booking agent works in Instagram / WhatsApp
+  I help business stop losing customers to unanswered DMs by building AI booking agent works in Instagram / WhatsApp
 </p>
 
 <div align="center">
